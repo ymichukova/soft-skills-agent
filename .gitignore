@@ -1,0 +1,4 @@
+situations/*
+!situations/.gitignore
+!situations/_example.md
+user_profile.md
